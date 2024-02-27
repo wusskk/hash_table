@@ -1,0 +1,6 @@
+# .gitignore
+
+.vscode/
+package/
+build/
+tests/output/
