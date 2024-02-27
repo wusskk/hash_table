@@ -2,6 +2,8 @@
 
 This is a simple implementation of a Hash Table in C.
 
+The main implementation is derived from [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table).
+
 ## Usage
 
 1. Clone the repository:
